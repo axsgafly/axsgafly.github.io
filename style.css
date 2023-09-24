@@ -1,7 +1,10 @@
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 6rem;
   background-color: #16f0f07e;
 }
 #exprience {
   background-color: #16f0f07e;
+}
+section {
+  padding-top: 6rem;
 }
